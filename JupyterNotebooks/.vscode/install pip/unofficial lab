@@ -1,0 +1,100 @@
+#int
+height=64
+#string 
+how_tall="How many inches is Kacey?"
+#boolean
+this_tall=False
+#float
+real_height=64.5
+​
+print(how_tall)
+print(height)
+​
+if height:
+    print(this_tall)
+    print(how_tall)
+    print(real_height)
+else: 
+    print("okay")
+​
+​
+​
+​
+​
+​
+How many inches is Kacey?
+64
+False
+How many inches is Kacey?
+64.5
+birds = 7 
+worms = 15 
+​
+print(birds + worms)
+print(birds - worms)
+print(birds / worms)
+print(birds * worms)
+print(birds % worms)
+22
+-8
+0.4666666666666667
+105
+7
+food = 39 
+drinks=18
+​
+print(food+drinks)
+​
+57
+# Change this variable to a string and print
+number_into_string = 37
+number_into_stringg = str(number_into_string)
+​
+print(number_into_stringg)
+print(type(number_into_stringg))
+​
+​
+# Change this variable to a integer and print
+string_into_number = '10'
+string_into_numberr = int(string_into_number)
+​
+print(string_into_numberr)
+print(type(string_into_numberr))
+​
+​
+# Change this variable to a float and print
+string_into_float = '299.99'
+string_into_floatt = float(string_into_float)
+print(string_into_floatt)
+print(type(string_into_floatt))
+​
+​
+# Change this variable to a boolean and print
+number_into_boolean = 37
+number_into_boolean = True 
+​
+print(number_into_boolean)
+print(type(number_into_boolean))
+​
+37
+<class 'str'>
+10
+<class 'int'>
+299.99
+<class 'float'>
+True
+<class 'bool'>
+names = ["Rick ", "Doug", "Jeff", "Ryan"]
+print(names)
+​
+names = ["Rick ", "Doug", "Jeff", "Ryan"]
+print(names)
+#list
+jdj=[]
+jdj=["Kacey","Yecak"]
+​
+​
+print(jdj)
+['Rick ', 'Doug', 'Jeff', 'Ryan']
+['Rick ', 'Doug', 'Jeff', 'Ryan']
+['Kacey', 'Yecak']
