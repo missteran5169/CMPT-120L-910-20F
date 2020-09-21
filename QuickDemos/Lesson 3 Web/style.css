@@ -1,0 +1,20 @@
+h1 {
+    background-color: aqua;
+}
+
+h4 {
+    background-color: purple;
+}
+
+.green {
+    background-color: green;
+}
+
+.bigger {
+    font-size: 6em;
+}
+
+#the-star {
+    font-size: 9em;
+    color: white;
+}
