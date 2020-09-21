@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python"
+}$ python -m pip install <package>
+pip install --upgrade pip
+
+
+
