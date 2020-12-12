@@ -26,3 +26,15 @@ if __name__ == "__main__":
     answers = sum_2d_array(two_d_array)
     
     print(answers)
+
+    two_d_array = [
+
+    [0,1],
+
+    [2,3],
+
+]
+
+chosen_number = two_d_array[1][0]
+
+print(chosen_number)
